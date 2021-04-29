@@ -2,3 +2,5 @@
 .idea
 warehouse.iml
 target
+*.lock
+expanded.rs
