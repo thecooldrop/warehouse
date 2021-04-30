@@ -14,5 +14,5 @@ mod schema;
 pub mod product;
 pub mod configuration;
 
-// pub(crate) mod testing;
-// pub(crate) mod mock;
+pub(crate) mod testing;
+pub(crate) mod mock;
